@@ -1,0 +1,43 @@
+-------------------------------------------------------------------------------
+Test set: com.vytrack.runners.FailedTestRunner
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 13, Errors: 0, Skipped: 0, Time elapsed: 242.575 s <<< FAILURE! - in com.vytrack.runners.FailedTestRunner
+Login with Different accounts sales manager(Account types)  Time elapsed: 13.202 s  <<< FAILURE!
+java.lang.AssertionError
+
+Login with Different accounts sales manager(Account types)  Time elapsed: 33.475 s  <<< FAILURE!
+java.lang.AssertionError
+
+Login with Different accounts sales manager(Account types)  Time elapsed: 13.589 s  <<< FAILURE!
+java.lang.AssertionError
+
+Login with Different accounts sales manager(Account types)  Time elapsed: 13.405 s  <<< FAILURE!
+java.lang.AssertionError
+
+Login with Different accounts sales manager(Account types)  Time elapsed: 12.867 s  <<< FAILURE!
+java.lang.AssertionError
+
+Login with Different accounts sales manager(Account types)  Time elapsed: 14.763 s  <<< FAILURE!
+java.lang.AssertionError
+
+Login with Different accounts store manager(Account types)  Time elapsed: 17.245 s  <<< FAILURE!
+java.lang.AssertionError
+
+Login with Different accounts store manager(Account types)  Time elapsed: 28.303 s  <<< FAILURE!
+java.lang.AssertionError
+
+Login with Different accounts store manager(Account types)  Time elapsed: 13.477 s  <<< FAILURE!
+java.lang.AssertionError
+
+Login with Different accounts store manager(Account types)  Time elapsed: 21.478 s  <<< FAILURE!
+java.lang.AssertionError
+
+Login with Different accounts store manager(Account types)  Time elapsed: 28.759 s  <<< FAILURE!
+java.lang.AssertionError
+
+Login with Different accounts store manager(Account types)  Time elapsed: 19.314 s  <<< FAILURE!
+java.lang.AssertionError
+
+Login with Different accounts store manager(Account types)  Time elapsed: 12.673 s  <<< FAILURE!
+java.lang.AssertionError
+
